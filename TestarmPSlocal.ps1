@@ -74,7 +74,7 @@ Source for more output: #Source https://blog.mexia.com.au/testing-arm-templates-
     $SimpleOutput = $null
     $DetailedError = $null
     $Parameters = @{
-        ResourceGroupName     = $ResourceGroupname 
+        ResourceGroupName     = $ResourceGroup 
         TemplateFile          = $TemplatePath
         TemplateParameterFile = $ParametersPath
     }
