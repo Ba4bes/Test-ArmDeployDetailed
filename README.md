@@ -17,8 +17,8 @@ There are two scripts available:
 
 ## HowTo
 
-Find more info on  
- <https://4bes.nl/2018/12/13/script-test-arm-templates-and-show-the-deployed-resources>
+Find more info on
+ <https://4bes.nl/2018/12/14/script-test-arm-templates-and-show-the-deployed-resources/>
 
-And a guide to run it as part of an Azure Devops deployment  
+And a guide to run it as part of an Azure Devops deployment
 <https://4bes.nl/2018/12/26/step-by-step-setup-a-build-deploy-pipeline-in-azure-devops-for-arm-templates/>
